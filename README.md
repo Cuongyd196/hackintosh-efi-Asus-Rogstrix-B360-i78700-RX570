@@ -1,0 +1,1 @@
+# hackintosh-efi-Asus-Rogstrix-B360-i78700-RX570
