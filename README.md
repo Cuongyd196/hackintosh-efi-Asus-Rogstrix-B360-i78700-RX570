@@ -1,5 +1,7 @@
 # hackintosh-efi-Asus-Rogstrix-B360-i78700-RX570
 # opencore 0.8.2
+=======
+b95bae6f09c2b4feb9fd5682bc2d6742d59d
 ## DETAIL
 ```sh
 - Mainboard ASUS ROG STRIX B365-F GAMING
@@ -16,3 +18,4 @@ https://drive.google.com/file/d/1_Pcj0OtLKpr01Inb4jStx1lF7cEpFz2T/view?usp=shari
 
 Link github EFI:
 https://github.com/Cuongyd196/hackintosh-efi-Asus-Rogstrix-B360-i78700-RX570
+
