@@ -19,3 +19,5 @@ https://drive.google.com/file/d/1_Pcj0OtLKpr01Inb4jStx1lF7cEpFz2T/view?usp=shari
 Link github EFI:
 https://github.com/Cuongyd196/hackintosh-efi-Asus-Rogstrix-B360-i78700-RX570
 
+Link video:
+https://youtu.be/9ZUmZciOTO8
