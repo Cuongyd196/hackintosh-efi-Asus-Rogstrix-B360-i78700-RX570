@@ -14,10 +14,13 @@
 - USB Bluetooth 4.0 CSR
 ```
 Link tải Monterey-12.4-(21F79).dmg. Link google drive
+
 https://drive.google.com/file/d/1_Pcj0OtLKpr01Inb4jStx1lF7cEpFz2T/view?usp=sharing
 
 Link github EFI:
+
 https://github.com/Cuongyd196/hackintosh-efi-Asus-Rogstrix-B360-i78700-RX570
 
 Link video:
+
 https://youtu.be/9ZUmZciOTO8
