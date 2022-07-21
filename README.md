@@ -4,7 +4,7 @@
 
 ## DETAIL
 ```sh
-- Mainboard ASUS ROG STRIX B365-F GAMING
+- Mainboard ASUS ROG STRIX B360-F GAMING
     + Audio: Realtek ALCS1220A
 - CPU Intel Core i7 8700 (4.60GHz, 12M, 6 Cores 12 Threads)
 - SSD 250GB Samsung 850 EVO 2.5-Inch SATA III
