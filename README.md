@@ -7,15 +7,13 @@
 - Mainboard ASUS ROG STRIX B360-F GAMING
     + Audio: Realtek ALCS1220A
 - CPU Intel Core i7 8700 (4.60GHz, 12M, 6 Cores 12 Threads)
-- SSD 250GB Samsung 850 EVO 2.5-Inch SATA III
+- SSD NVME GEN3X4 WD SN750 500GB - MACOS
+- SSD NVME GEN3X4 PLEXTOR 256GB - WIN 11
 - GPU Asus RX 570 4GB
 - X4 Ram PC G.SKILL Trident Z RGB 8GB 3000MHz DDR4 
-- USB Wifi COMFAST CF-811AC 
-- USB Bluetooth 4.0 CSR
+- Card WIFI BCM94360CS2 chipset Broadcom
 ```
-Link tải Monterey-12.4-(21F79).dmg. Link google drive
 
-https://drive.google.com/file/d/1_Pcj0OtLKpr01Inb4jStx1lF7cEpFz2T/view?usp=sharing
 
 Link github EFI:
 
